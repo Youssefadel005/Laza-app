@@ -28,6 +28,8 @@ https://screenrec.com/share/tpFr8afC9m
 
 
 
+
+
 ## 📂 Repository Structure
 ```text
 /lib              # Main Flutter source code
@@ -40,6 +42,7 @@ firebase.json     # Firebase configuration
 firestore.rules   # Security rules for the database
 README.md         # Project documentation
 "# Laza1-app" 
+
 
 
 
