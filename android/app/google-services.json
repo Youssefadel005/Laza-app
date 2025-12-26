@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598470065462",
+    "project_id": "laze-app-test1",
+    "storage_bucket": "laze-app-test1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598470065462:android:8af89da3d33c76044ec797",
+        "android_client_info": {
+          "package_name": "com.example.laza_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNuwgV88nrS16ELg8qopoEXrvwE3T9fAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

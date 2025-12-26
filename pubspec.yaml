@@ -1,0 +1,37 @@
+name: laza_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Icons
+  cupertino_icons: ^1.0.8
+
+  # Firebase (Matched Versions)
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.6.12 
+  # ^ We changed this to 5.6.12 so it plays nicely with the others
+
+  # Networking
+  http: ^1.2.0
+
+  # Utilities
+  provider: ^6.1.5+1
+  shared_preferences: ^2.5.4
+  google_fonts: ^6.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
