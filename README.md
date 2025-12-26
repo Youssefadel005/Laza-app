@@ -30,3 +30,5 @@ README.md         # Project documentation
 "# Laza1-app" 
 
 
+<img width="1998" height="1424" alt="Screenshot 2025-12-26 020636" src="https://github.com/user-attachments/assets/14de36bd-3982-463d-8181-77c15df8fddf" />
+
