@@ -17,7 +17,9 @@ Laza is a fully functional e-commerce mobile application built with **Flutter** 
 ---
 <img width="1622" height="1039" alt="Screenshot 2025-12-26 020349" src="https://github.com/user-attachments/assets/1e354217-c6ff-4a57-9fec-1b44f95eb016" />
 <img width="1998" height="1424" alt="Screenshot 2025-12-26 020636" src="https://github.com/user-attachments/assets/4baab742-89dd-4bb8-83bd-c0694ce8c311" />
-<img width="1369" height="386" alt="Screenshot 2025-12-26 022503" src="https://github.com/user-attachments/assets/e7273be2-cacc-447f-9640-b5452f3e5a05" />
+<img width="938" height="206" alt="Screenshot 2025-12-26 022843" src="https://github.com/user-attachments/assets/d24d4f26-b0d9-432f-93f2-7af141ea2513" />
+<img width="999" height="337" alt="Screenshot 2025-12-26 025221" src="https://github.com/user-attachments/assets/a1a345c0-6938-44d7-98cc-ce4827361c69" />
+
 
 
 
@@ -35,6 +37,7 @@ firebase.json     # Firebase configuration
 firestore.rules   # Security rules for the database
 README.md         # Project documentation
 "# Laza1-app" 
+
 
 
 
