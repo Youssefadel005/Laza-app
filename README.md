@@ -15,6 +15,13 @@ Laza is a fully functional e-commerce mobile application built with **Flutter** 
 * **Automated Testing:** Python-based Appium scripts for end-to-end testing.
 
 ---
+<img width="1622" height="1039" alt="Screenshot 2025-12-26 020349" src="https://github.com/user-attachments/assets/1e354217-c6ff-4a57-9fec-1b44f95eb016" />
+<img width="1998" height="1424" alt="Screenshot 2025-12-26 020636" src="https://github.com/user-attachments/assets/4baab742-89dd-4bb8-83bd-c0694ce8c311" />
+<img width="1369" height="386" alt="Screenshot 2025-12-26 022503" src="https://github.com/user-attachments/assets/e7273be2-cacc-447f-9640-b5452f3e5a05" />
+
+
+
+
 
 ## 📂 Repository Structure
 ```text
@@ -30,5 +37,6 @@ README.md         # Project documentation
 "# Laza1-app" 
 
 
-<img width="1998" height="1424" alt="Screenshot 2025-12-26 020636" src="https://github.com/user-attachments/assets/14de36bd-3982-463d-8181-77c15df8fddf" />
+
+
 
